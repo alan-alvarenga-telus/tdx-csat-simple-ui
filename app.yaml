@@ -1,0 +1,3 @@
+runtime: python39
+env_variables:
+  API_HOST: "https://your-cloud-function-url.cloudfunctions.net"
